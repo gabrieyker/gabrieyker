@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @gabrieyker
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+git clone https://github.com/ze4n-github/Doxxin-Z
 
-<!---
-gabrieyker/gabrieyker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+cd Doxxin-Z
+
+chmod +x Doxxin-Z.sh
+
+para ejecutar el script hay 2 maneras. Escoge la que quieras
+
+bash Doxxin-Z.sh
+
+./Doxxin-Z.sh
